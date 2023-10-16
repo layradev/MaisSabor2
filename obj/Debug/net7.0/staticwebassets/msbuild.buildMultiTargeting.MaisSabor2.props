@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MaisSabor2.props" />
+</Project>

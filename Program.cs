@@ -3,10 +3,16 @@ using MaisSabor2.Models;
 using MaisSabor2.Repositories;
 using MaisSabor2.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using MaisSabor2.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddTransient<IPedidoRepository, PedidoRepository>();
+builder.Services.AddScoped<IUserRoleInicial, UserRoleInicial>();
+builder.Services.AddIdentity<UserAcount, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 builder.Services.AddScoped(sp => Carrinho.GetCarrinhoCompra(sp));
 builder.Services.AddMemoryCache();
 builder.Services.AddSession();
@@ -31,13 +37,15 @@ app.UseStaticFiles();
 
 app.UseSession();
 app.UseRouting();
+CriarPerfisUsuarios(app);
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
 name: "categoriaFiltro",
 pattern: "Item/{action}/{categoria?}",
-defaults: new { Controller = "Movel", action = "List" }
+defaults: new { Controller = "Item", action = "List" }
 );
 app.MapControllerRoute(
 name: "areas",
@@ -48,3 +56,12 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+static void CriarPerfisUsuarios(WebApplication app)
+{
+var scopedFactory = app.Services.GetService<IServiceScopeFactory>();
+using var scope = scopedFactory?.CreateScope();
+var service = scope?.ServiceProvider.GetService<IUserRoleInicial>();
+service?.SeedRoles();
+service?.SeedUsers();
+}

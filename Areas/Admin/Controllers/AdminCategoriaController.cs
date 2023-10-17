@@ -7,10 +7,13 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MaisSabor2.Context;
 using MaisSabor2.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MaisSabor2.Areas.Admin.Controllers
 {
+    
     [Area("Admin")]
+    [Authorize(Roles="Admin")]
     public class AdminCategoriaController : Controller
     {
         private readonly AppDbContext _context;

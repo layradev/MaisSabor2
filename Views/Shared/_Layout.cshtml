@@ -27,9 +27,14 @@
                             <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-light" asp-area="Admin" asp-controller="Menu"
-                                asp-action="Index">Categoria</a>
+                            @if (User.IsInRole("Admin"))
+                            {
+
+                                <a class="nav-link text-dark" asp-area="Admin" asp-controller="Admin" asp-action="Index">Admin</a>
+
+                            }
                         </li>
+
                         <li class="nav-item">
 
                             @await Component.InvokeAsync("CategoriaMenu")
@@ -37,20 +42,22 @@
                         </li>
                         <li class="nav-item">
 
-                            <form class="navbar-form navbar-right" asp-controller="Item" asp-action="Search" method="get">
+                            <form class="navbar-form navbar-right" asp-controller="Item" asp-action="Search"
+                                method="get">
 
                                 <div class="form-group">
                                     <input type="text" class="form-control" placeholder="Procurar produto" name="searchString" value="@ViewData["searchString"]">
                                 </div>
                             </form>
                         </li>
-                        <li>
-                        @await Component.InvokeAsync("CarrinhoResumo")
+                        <li class="ms-auto">
+                            @await Component.InvokeAsync("CarrinhoResumo")
                         </li>
-                        <button class="btn btn-sm azul rounded-3 text-dark ms-auto me-2 ">Cadastre-se</button>
-                        <button class="btn azul btn-sm rounded-3 text-dark me-2 ">Login</button>
                         <i class="bi bi-house fs-1 text-white me-2"></i>
                        <i class="bi bi-cart fs-1 text-white"></i>
+                        <li>
+                            @await Html.PartialAsync("_Login")
+                        </li>
                     </ul>
                 </div>
             </div>

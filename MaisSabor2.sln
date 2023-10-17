@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaisSabor2", "MaisSabor2.csproj", "{4F781B6F-DA36-4A03-AC80-F9D04B3E4890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaisSabor2", "MaisSabor2.csproj", "{82954B24-01DB-4995-9BA8-CCEC608D0A6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4F781B6F-DA36-4A03-AC80-F9D04B3E4890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F781B6F-DA36-4A03-AC80-F9D04B3E4890}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F781B6F-DA36-4A03-AC80-F9D04B3E4890}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F781B6F-DA36-4A03-AC80-F9D04B3E4890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82954B24-01DB-4995-9BA8-CCEC608D0A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82954B24-01DB-4995-9BA8-CCEC608D0A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82954B24-01DB-4995-9BA8-CCEC608D0A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82954B24-01DB-4995-9BA8-CCEC608D0A6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {00E6B419-3953-4796-8D8C-B63E69CD2082}
+		SolutionGuid = {0EEFCA40-2244-4ECB-B8B1-FDDA30F0E669}
 	EndGlobalSection
 EndGlobal

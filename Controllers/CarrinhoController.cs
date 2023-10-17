@@ -2,8 +2,10 @@ using MaisSabor2.ViewModel;
 using MaisSabor2.Models;
 using MaisSabor2.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-namespace InduMovel.Controllers
+using Microsoft.AspNetCore.Authorization;
+namespace MaisSabor2.Controllers
 {
+    [Authorize]
     public class CarrinhoController : Controller
     {
         private readonly Carrinho _carrinho;

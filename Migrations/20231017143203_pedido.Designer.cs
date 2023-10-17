@@ -3,6 +3,7 @@ using System;
 using MaisSabor2.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MaisSabor2.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231017143203_pedido")]
+    partial class pedido
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "7.0.12");
@@ -150,6 +153,9 @@ namespace MaisSabor2.Migrations
                     b.Property<DateTime>("PedidoEnviadoEm")
                         .HasColumnType("TEXT");
 
+                    b.Property<int?>("PedidoId1")
+                        .HasColumnType("INTEGER");
+
                     b.Property<decimal>("PedidoTotal")
                         .HasColumnType("decimal(18,2)");
 
@@ -163,6 +169,8 @@ namespace MaisSabor2.Migrations
 
                     b.HasKey("PedidoId");
 
+                    b.HasIndex("PedidoId1");
+
                     b.ToTable("Pedidos");
                 });
 
@@ -170,6 +178,9 @@ namespace MaisSabor2.Migrations
                 {
                     b.Property<int>("PedidoItemId")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int?>("ItemId")
                         .HasColumnType("INTEGER");
 
                     b.Property<int>("ItemId")
@@ -426,16 +437,21 @@ namespace MaisSabor2.Migrations
                     b.Navigation("Categoria");
                 });
 
+            modelBuilder.Entity("MaisSabor2.Models.Pedido", b =>
+                {
+                    b.HasOne("MaisSabor2.Models.Pedido", null)
+                        .WithMany("PedidoMoveis")
+                        .HasForeignKey("PedidoId1");
+                });
+
             modelBuilder.Entity("MaisSabor2.Models.PedidoItem", b =>
                 {
                     b.HasOne("MaisSabor2.Models.Item", "Item")
                         .WithMany()
-                        .HasForeignKey("ItemId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("ItemId");
 
                     b.HasOne("MaisSabor2.Models.Pedido", "Pedido")
-                        .WithMany("PedidoItens")
+                        .WithMany()
                         .HasForeignKey("PedidoId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -498,7 +514,7 @@ namespace MaisSabor2.Migrations
 
             modelBuilder.Entity("MaisSabor2.Models.Pedido", b =>
                 {
-                    b.Navigation("PedidoItens");
+                    b.Navigation("PedidoMoveis");
                 });
 #pragma warning restore 612, 618
         }

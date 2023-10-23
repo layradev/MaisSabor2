@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AeJZEazTWfM3bOeWfoHyyYNVqH6s4yIWMV/lbkdWUTqMcdCXfeKKLrSq/asqMtT4wxb+UNr53KlIM7D7FnLQNQ==",
+  "dgSpecHash": "AJ2SQFu3oNjcPq77E1TDqz3qIBBszwN7LW1su2TQZPMZGbF6oBhcfMiJ+a7T5flGI/Daong6/ktOl539Oa4t8w==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\MaisSabor2\\MaisSabor2.csproj",
+  "projectFilePath": "C:\\dev\\MaisSabor2\\MaisSabor2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\dev\\MaisSabor2\\MaisSabor2.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\dev\\MaisSabor2\\MaisSabor2.csproj",
         "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\MaisSabor2\\obj\\",
+=======
+    "C:\\Dev\\MaisSabor\\MaisSabor2\\MaisSabor2.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\MaisSabor\\MaisSabor2\\MaisSabor2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\MaisSabor\\MaisSabor2\\MaisSabor2.csproj",
+        "projectName": "MaisSabor2",
+        "projectPath": "C:\\Dev\\MaisSabor\\MaisSabor2\\MaisSabor2.csproj",
+        "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\MaisSabor\\MaisSabor2\\obj\\",
+>>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +53,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameWorkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

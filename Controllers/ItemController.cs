@@ -28,12 +28,12 @@ namespace MaisSabor2.Controllers
 
                 categoriaAtual = categoria;
             }
-            var itemListViewMovel = new ItemListViewModel
+            var itemListViewItem = new ItemListViewModel
             {
                 Itens = itens,
                 CategoriaAtual = categoriaAtual
             };
-            return View(itemListViewMovel);
+            return View(itemListViewItem);
         }
         public IActionResult Details(int itemId)
         {

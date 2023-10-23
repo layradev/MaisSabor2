@@ -1,20 +1,22 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - MaisSabor2</title>
+    <title>@ViewData["Title"] - </title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/MaisSabor2.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MaisSabor2.styles.css" asp-append-version="true" />[
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
 </head>
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark border-bottom box-shadow mb-3 roxo">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MaisSabor2</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"> <img src="/img/logo.png" alt=""></a>
+               
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -22,12 +24,17 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Admin" asp-controller="Admin"
-                                asp-action="Index">Admin</a>
+                            @if (User.IsInRole("Admin"))
+                            {
+
+                                <a class="nav-link text-dark" asp-area="Admin" asp-controller="Admin" asp-action="Index">Admin</a>
+
+                            }
                         </li>
+
                         <li class="nav-item">
 
                             @await Component.InvokeAsync("CategoriaMenu")
@@ -35,17 +42,21 @@
                         </li>
                         <li class="nav-item">
 
-                            <form class="navbar-form navbar-right" asp-controller="Item" asp-action="Search" method="get">
+                            <form class="navbar-form navbar-right" asp-controller="Item" asp-action="Search"
+                                method="get">
 
                                 <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Procurar
-
-produto" name="searchString" value="@ViewData["searchString"]">
+                                    <input type="text" class="form-control" placeholder="Procurar produto" name="searchString" value="@ViewData["searchString"]">
                                 </div>
                             </form>
                         </li>
+                        <li class="ms-auto">
+                            @await Component.InvokeAsync("CarrinhoResumo")
+                        </li>
+                        <i class="bi bi-house fs-1 text-white me-2"></i>
+                       <i class="bi bi-cart fs-1 text-white"></i>
                         <li>
-                        @await Component.InvokeAsync("CarrinhoResumo")
+                            @await Html.PartialAsync("_Login")
                         </li>
                     </ul>
                 </div>
@@ -53,14 +64,26 @@ produto" name="searchString" value="@ViewData["searchString"]">
         </nav>
     </header>
     <div class="container">
-        <main role="main" class="pb-3">
+        <main role="main" class="pb-3 ">
+            
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - MaisSabor2 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <footer class="text-white roxo p-4">
+        <div class="row mx-auto">
+           <div class="col-4">
+            <i class="bi bi-geo-alt"></i>
+            <p>Av. Brasilia</p>
+            </div> 
+             <div class="col-4">
+                <i class="bi bi-clock"></i>
+                <p>Terça-Domingo 13h-22h</p>
+             </div>
+             <div class="col-4">
+                <i class="bi bi-telephone-inbound"></i>
+                <p>0000-0000</p>
+              </div>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

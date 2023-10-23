@@ -11713,19 +11713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\dev\\MaisSabor2\\MaisSabor2.csproj",
       "projectName": "MaisSabor2",
       "projectPath": "C:\\dev\\MaisSabor2\\MaisSabor2.csproj",
       "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\MaisSabor2\\obj\\",
-=======
-      "projectUniqueName": "C:\\Dev\\MaisSabor2\\MaisSabor2.csproj",
-      "projectName": "MaisSabor2",
-      "projectPath": "C:\\Dev\\MaisSabor2\\MaisSabor2.csproj",
-      "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\MaisSabor2\\obj\\",
->>>>>>> e3a95e9827ba49798a98127495e09a1f94deaeb8
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"

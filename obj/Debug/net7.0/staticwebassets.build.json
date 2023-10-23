@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "PY9dLIt+2Xjcd0w9u0N0Knl7eWMr4xpi8hyHRdU/q6g=",
-=======
-  "Hash": "dHt3E0HYkQGmX3DCjF/ZKBoCWJZDcf7ZcU3sTP0rJaY=",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
+  "Hash": "sK/BGsapup8/ZLhJus49+4CGCoAGcn6XXENkYWHfc+4=",
   "Source": "MaisSabor2",
   "BasePath": "_content/MaisSabor2",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "MaisSabor2\\wwwroot",
       "Source": "MaisSabor2",
-<<<<<<< HEAD
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MaisSabor2.styles.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MaisSabor2.styles.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "MaisSabor2.styles.css",
       "AssetKind": "All",
@@ -46,7 +31,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "C:\\dev\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MaisSabor2.styles.css"
     },
     {
@@ -54,15 +38,6 @@
       "SourceId": "MaisSabor2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\dev\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-=======
-      "OriginalItemSpec": "C:\\Dev\\MaisSabor\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MaisSabor2.styles.css"
-    },
-    {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MaisSabor2.bundle.scp.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "MaisSabor2.bundle.scp.css",
       "AssetKind": "All",
@@ -73,7 +48,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
       "OriginalItemSpec": "C:\\dev\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MaisSabor2.bundle.scp.css"
     },
     {
@@ -81,15 +55,6 @@
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "OriginalItemSpec": "C:\\Dev\\MaisSabor\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MaisSabor2.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\css\\site.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -103,17 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\favicon.ico",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\favicon.ico",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -127,16 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\js\\site.js",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\acai.png",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\acai.png",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/acai.png",
       "AssetKind": "All",
@@ -150,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\acai.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\acai2.png",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\acai2.png",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/acai2.png",
       "AssetKind": "All",
@@ -167,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\acai2.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\acai3.png",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\acai3.png",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/acai3.png",
       "AssetKind": "All",
@@ -184,10 +136,27 @@
       "OriginalItemSpec": "wwwroot\\img\\acai3.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\carrinho.png",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\acaipreto.png",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
+      "BasePath": "_content/MaisSabor2",
+      "RelativePath": "img/acaipreto.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\acaipreto.png"
+    },
+    {
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\carrinho.png",
+      "SourceId": "MaisSabor2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/carrinho.png",
       "AssetKind": "All",
@@ -201,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carrinho.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\home.png",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\home.png",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/home.png",
       "AssetKind": "All",
@@ -218,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\home.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\imagem1.png",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\imagem1.png",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/imagem1.png",
       "AssetKind": "All",
@@ -235,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imagem1.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\imagem2.png",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\imagem2.png",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/imagem2.png",
       "AssetKind": "All",
@@ -252,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imagem2.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\imagem3.png",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\imagem3.png",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/imagem3.png",
       "AssetKind": "All",
@@ -269,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imagem3.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\imagem4.png",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\imagem4.png",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/imagem4.png",
       "AssetKind": "All",
@@ -286,10 +255,27 @@
       "OriginalItemSpec": "wwwroot\\img\\imagem4.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\img1.jpg",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
+      "BasePath": "_content/MaisSabor2",
+      "RelativePath": "img/img1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\img1.jpg"
+    },
+    {
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\img\\logo.png",
+      "SourceId": "MaisSabor2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -303,11 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\js\\site.js",
+      "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\js\\site.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
+      "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -321,17 +306,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -345,17 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -369,17 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -393,17 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -417,17 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -441,17 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -465,17 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -489,17 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -513,17 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -537,17 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -561,17 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -585,17 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -609,17 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -633,17 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -657,17 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -681,17 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -705,17 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -729,17 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -753,17 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -777,17 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -801,17 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -825,17 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -849,17 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -873,17 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -897,17 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -921,17 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -945,17 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -969,17 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -993,17 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1017,17 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1041,17 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1065,17 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1089,17 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1113,17 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1137,17 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1161,17 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1185,17 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1209,17 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1233,17 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1257,17 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1281,17 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1305,17 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1329,17 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1353,17 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1377,17 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1401,17 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1425,17 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1449,17 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1473,17 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1497,17 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1521,17 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1545,17 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1569,17 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1593,17 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1617,17 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1641,17 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1665,17 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MaisSabor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\dev\\MaisSabor2\\wwwroot\\",
-=======
-      "Identity": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "MaisSabor2",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Dev\\MaisSabor\\MaisSabor2\\wwwroot\\",
->>>>>>> 95a1f6c8839a38909ad163774ee9018d65937508
       "BasePath": "_content/MaisSabor2",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

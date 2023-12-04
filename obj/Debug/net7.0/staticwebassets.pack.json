@@ -1,295 +1,427 @@
 {
   "Files": [
     {
-      "Id": "C:\\dev\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MaisSabor2.bundle.scp.css",
+      "Id": "C:\\Dev\\MaisSabor2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MaisSabor2.bundle.scp.css",
       "PackagePath": "staticwebassets\\MaisSabor2.bundle.scp.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\css\\site.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\favicon.ico",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\acai.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\009c6ca4-40b6-464f-a39a-7d3d96f5ce9e..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\009c6ca4-40b6-464f-a39a-7d3d96f5ce9e..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\0b486a38-4aee-448b-a5c5-0ba670e5bb60..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\0b486a38-4aee-448b-a5c5-0ba670e5bb60..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\0b4a3a4c-13fc-4c66-8a1f-2cd8826f2b8a..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\0b4a3a4c-13fc-4c66-8a1f-2cd8826f2b8a..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\1361a4d3-a9ee-4629-a65d-4e1eda0ead1f..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\1361a4d3-a9ee-4629-a65d-4e1eda0ead1f..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\13843760-f127-4e0d-b2d1-7af1cf9a0ced..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\13843760-f127-4e0d-b2d1-7af1cf9a0ced..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\2e2b8cd7-e96b-4164-a968-27f080b3adaf..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\2e2b8cd7-e96b-4164-a968-27f080b3adaf..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\33eaaeda-1f47-4211-bcbc-97257a4c6fce..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\33eaaeda-1f47-4211-bcbc-97257a4c6fce..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\532f2d4e-36da-4d3d-aa2b-5df07b21c90b..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\532f2d4e-36da-4d3d-aa2b-5df07b21c90b..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\6ab4594b-66ee-48e0-b8a9-cad5fd055c4e..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\6ab4594b-66ee-48e0-b8a9-cad5fd055c4e..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\900190de-7f46-4499-92aa-6f729c6b06a7..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\900190de-7f46-4499-92aa-6f729c6b06a7..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\94b81ba4-104f-4aa9-b8ed-26787956315d..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\94b81ba4-104f-4aa9-b8ed-26787956315d..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\a171d9d5-e02e-4bf5-8c6a-097bb4282630..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\a171d9d5-e02e-4bf5-8c6a-097bb4282630..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\baab3083-a476-481b-8aad-d42a585baa59..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\baab3083-a476-481b-8aad-d42a585baa59..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\be388ead-1822-4c23-b091-60268e38bd80..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\be388ead-1822-4c23-b091-60268e38bd80..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\bfd2a856-f248-4d8f-9918-fab6b403b757..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\bfd2a856-f248-4d8f-9918-fab6b403b757..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\c6be5400-6ee7-45a9-a4a6-e0e01d4bfa2b..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\c6be5400-6ee7-45a9-a4a6-e0e01d4bfa2b..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\c6bed6ff-1678-4753-8ef0-b60f9f7c57f9..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\c6bed6ff-1678-4753-8ef0-b60f9f7c57f9..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\c88d58e9-c824-4931-a55c-b9d8cdf33908..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\c88d58e9-c824-4931-a55c-b9d8cdf33908..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\c929b9b3-c3db-46e8-8c16-f1cdef625176..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\c929b9b3-c3db-46e8-8c16-f1cdef625176..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\ccea1d59-780f-461a-b5b8-4a68559923af..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\ccea1d59-780f-461a-b5b8-4a68559923af..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\d304fe97-2de5-482d-8f2a-44a4ef37fa06..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\d304fe97-2de5-482d-8f2a-44a4ef37fa06..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\d315df52-9626-4013-8f63-68d57a1ad3b0..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\d315df52-9626-4013-8f63-68d57a1ad3b0..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\d7bed392-068c-4884-bea4-1816fec89ab6..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\d7bed392-068c-4884-bea4-1816fec89ab6..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\ddcccfb3-674a-4f93-8eb8-d9a7cea4483d..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\ddcccfb3-674a-4f93-8eb8-d9a7cea4483d..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\dde21bcf-8464-4f20-94f1-d3b2835e92d4..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\dde21bcf-8464-4f20-94f1-d3b2835e92d4..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\e2a65eee-090c-41bb-85bf-cd8bd96edcb6..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\e2a65eee-090c-41bb-85bf-cd8bd96edcb6..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\e4ac5c10-6293-4173-8e84-47a0501255ac..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\e4ac5c10-6293-4173-8e84-47a0501255ac..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\f0f06724-7be5-439d-a503-dc854910f087..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\f0f06724-7be5-439d-a503-dc854910f087..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\f2ebe2ef-0c2c-4cd9-b1a9-debba9c5998b..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\f2ebe2ef-0c2c-4cd9-b1a9-debba9c5998b..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\f54543ff-1956-46cb-8dbd-17b05c3eb755..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\f54543ff-1956-46cb-8dbd-17b05c3eb755..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\f876e844-05e8-41af-b90f-aa626df90588..png",
+      "PackagePath": "staticwebassets\\imagens\\item\\f876e844-05e8-41af-b90f-aa626df90588..png"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\fa6d5648-2739-4a8c-a253-b93e6843c88e..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\fa6d5648-2739-4a8c-a253-b93e6843c88e..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\imagens\\item\\fad9565c-c2c2-4f92-8a01-988ec5f22a9e..jpg",
+      "PackagePath": "staticwebassets\\imagens\\item\\fad9565c-c2c2-4f92-8a01-988ec5f22a9e..jpg"
+    },
+    {
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\acai.png",
       "PackagePath": "staticwebassets\\img\\acai.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\acai2.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\acai2.png",
       "PackagePath": "staticwebassets\\img\\acai2.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\acai3.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\acai3.png",
       "PackagePath": "staticwebassets\\img\\acai3.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\acaipreto.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\acaipreto.png",
       "PackagePath": "staticwebassets\\img\\acaipreto.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\carrinho.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\carrinho.png",
       "PackagePath": "staticwebassets\\img\\carrinho.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\home.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\home.png",
       "PackagePath": "staticwebassets\\img\\home.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\imagem1.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\imagem1.png",
       "PackagePath": "staticwebassets\\img\\imagem1.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\imagem2.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\imagem2.png",
       "PackagePath": "staticwebassets\\img\\imagem2.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\imagem3.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\imagem3.png",
       "PackagePath": "staticwebassets\\img\\imagem3.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\imagem4.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\imagem4.png",
       "PackagePath": "staticwebassets\\img\\imagem4.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\img1.jpg",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\img1.jpg",
       "PackagePath": "staticwebassets\\img\\img1.jpg"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\img\\logo.png",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\js\\site.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\dev\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Dev\\MaisSabor2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

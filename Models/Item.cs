@@ -33,6 +33,6 @@ namespace MaisSabor2.Models
         [Display(Name ="Categoria")]
         public int CategoriaId{get;set;}
         public virtual Categoria Categoria{get;set;}
-
+        
     }
 }

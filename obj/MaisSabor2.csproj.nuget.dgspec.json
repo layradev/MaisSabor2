@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\MaisSabor2\\MaisSabor2.csproj": {}
+    "C:\\Dev\\MaisSabor2\\MaisSabor2.csproj": {}
   },
   "projects": {
-    "C:\\dev\\MaisSabor2\\MaisSabor2.csproj": {
+    "C:\\Dev\\MaisSabor2\\MaisSabor2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\MaisSabor2\\MaisSabor2.csproj",
+        "projectUniqueName": "C:\\Dev\\MaisSabor2\\MaisSabor2.csproj",
         "projectName": "MaisSabor2",
-        "projectPath": "C:\\dev\\MaisSabor2\\MaisSabor2.csproj",
+        "projectPath": "C:\\Dev\\MaisSabor2\\MaisSabor2.csproj",
         "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\MaisSabor2\\obj\\",
+        "outputPath": "C:\\Dev\\MaisSabor2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -66,6 +66,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "ReflectionIT.Mvc.Paging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

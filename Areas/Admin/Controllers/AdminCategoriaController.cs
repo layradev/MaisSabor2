@@ -8,12 +8,13 @@ using Microsoft.EntityFrameworkCore;
 using MaisSabor2.Context;
 using MaisSabor2.Models;
 using Microsoft.AspNetCore.Authorization;
+using ReflectionIT.Mvc.Paging;
 
 namespace MaisSabor2.Areas.Admin.Controllers
 {
-    
+
     [Area("Admin")]
-    [Authorize(Roles="Admin")]
+    [Authorize(Roles = "Admin")]
     public class AdminCategoriaController : Controller
     {
         private readonly AppDbContext _context;
@@ -24,11 +25,22 @@ namespace MaisSabor2.Areas.Admin.Controllers
         }
 
         // GET: Admin/AdminCategoria
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string filtro, int pageindex = 1,string sort = "Nome")
         {
-              return _context.Categorias != null ? 
-                          View(await _context.Categorias.ToListAsync()) :
-                          Problem("Entity set 'AppDbContext.Categorias'  is null.");
+            var itenslist = _context.Categorias.AsNoTracking().AsQueryable();
+
+            if (filtro != null)
+            {
+                itenslist = itenslist.Where(p =>
+
+                p.Nome.Contains(filtro));
+
+            }
+            var model = await PagingList.CreateAsync(itenslist, 5, pageindex, sort, "Nome");
+
+            model.RouteValue = new RouteValueDictionary{{"filtro", filtro}};
+
+            return View(model);
         }
 
         // GET: Admin/AdminCategoria/Details/5
@@ -154,14 +166,27 @@ namespace MaisSabor2.Areas.Admin.Controllers
             {
                 _context.Categorias.Remove(categoria);
             }
-            
-            await _context.SaveChangesAsync();
+
+
+            try
+            {
+                _context.Categorias.Remove(categoria);
+                await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateException ex)
+            {
+                if (ex.InnerException.ToString().Contains("FOREIGN KEY"))
+                {
+                    ViewData["Erro"] = "Essa categoria não pode ser excluida, pois já está sendo atualizada";
+                    return View(categoria);
+                }
+            }
             return RedirectToAction(nameof(Index));
         }
 
         private bool CategoriaExists(int id)
         {
-          return (_context.Categorias?.Any(e => e.CategoriaId == id)).GetValueOrDefault();
+            return (_context.Categorias?.Any(e => e.CategoriaId == id)).GetValueOrDefault();
         }
     }
 }

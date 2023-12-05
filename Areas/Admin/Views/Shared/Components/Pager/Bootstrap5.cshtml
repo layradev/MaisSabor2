@@ -22,20 +22,20 @@
 
         @if (this.Model.PageIndex > 1) {
             <li class="page-item">
-                <a href="@Url.Action(Model.Action, Model.GetRouteValueForPage(this.Model.PageIndex - 1))" aria-label="Anterior" class="page-link">
+                <a href="@Url.Action(Model.Action, Model.GetRouteValueForPage(this.Model.PageIndex - 1))" aria-label="Anterior" class="page-link roxo text-light">
                     @Html.Raw(@previous)
                 </a>
             </li>
         } else if (useDisabled) {
             <li class="page-item disabled">
-                <a class="page-link" href="#" tabindex="-1" aria-disabled="true">@Html.Raw(@previous)</a>
+                <a class="page-link roxo text-light" href="#" tabindex="-1" aria-disabled="true">@Html.Raw(@previous)</a>
             </li>
         }
 
         @if (showFirstAndLast) {
             @if (start > 1) {
                 <li class="page-item">
-                    <a href="@Url.Action(Model.Action, Model.GetRouteValueForPage(1))" aria-label="Primeira Pagina" class="page-link">
+                    <a href="@Url.Action(Model.Action, Model.GetRouteValueForPage(1))" aria-label="Primeira Pagina" class="page-link roxo text-light">
                         @Html.Raw(@first)
                     </a>
                 </li>
@@ -61,7 +61,7 @@
                     </li>
                 }
                 <li class="page-item">
-                    <a href="@Url.Action(Model.Action, Model.GetRouteValueForPage(this.Model.PageCount))" aria-label="Ultima pagina" class="page-link">
+                    <a href="@Url.Action(Model.Action, Model.GetRouteValueForPage(this.Model.PageCount))" aria-label="Ultima pagina" class="page-link roxo text-light">
                         @Html.Raw(@last)
                     </a>
                 </li>
@@ -70,13 +70,13 @@
 
         @if (this.Model.PageIndex < this.Model.PageCount) {
             <li class="page-item">
-                <a href="@Url.Action(Model.Action, Model.GetRouteValueForPage(this.Model.PageIndex + 1))" aria-label="Proxima Pagina" class="page-link">
+                <a href="@Url.Action(Model.Action, Model.GetRouteValueForPage(this.Model.PageIndex + 1))" aria-label="Proxima Pagina" class="page-link roxo text-light">
                     @Html.Raw(@next)
                 </a>
             </li>
         } else if (useDisabled) {
             <li class="page-item disabled">
-                <a class="page-link" href="#" tabindex="-1" aria-disabled="true">@Html.Raw(@next)</a>
+                <a class="page-link  text-light" href="#" tabindex="-1" aria-disabled="true">@Html.Raw(@next)</a>
             </li>
         }
 

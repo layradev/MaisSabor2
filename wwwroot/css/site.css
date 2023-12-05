@@ -18,9 +18,7 @@ html {
   min-height: 100%;
 }
 
-body {
 
-}
 
 .roxo{
   background-color: #8e24aa;
@@ -30,3 +28,6 @@ body {
 .azul {
   background-color: #90CAF9;
 }
+
+.page-item.active .page-link {
+  background-color: #8e24aa;}

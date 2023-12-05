@@ -33,10 +33,7 @@ namespace MaisSabor2.Areas.Admin.Controllers
 
             if (filtro != null)
             {
-                itenslist = itenslist.Where(p =>
-
-                p.Nome.Contains(filtro));
-
+                itenslist = itenslist.Where(p =>  p.Nome.ToLower().Contains(filtro.ToLower()));
             }
             var model = await PagingList.CreateAsync(itenslist, 5, pageindex, sort, "Nome");
             model.RouteValue = new RouteValueDictionary{{"filtro", filtro}};

@@ -35,7 +35,7 @@ namespace MaisSabor2.Areas.Admin.Controllers
             {
                 di = new DateTime(DateTime.Now.Year, 1, 1);
             }
-            if (df.HasValue)
+            if (!df.HasValue)
             {
                 df = DateTime.Now;
             }

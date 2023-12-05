@@ -90,8 +90,8 @@ namespace MaisSabor2.Areas.Admin.Controllers
             {
                 return NotFound();
             }
-            ViewData["ItemId"] = new SelectList(_context.Itens, "ItemId", "Cor", pedidoItem.ItemId);
-            ViewData["PedidoId"] = new SelectList(_context.Pedidos, "PedidoId", "Cep", pedidoItem.PedidoId);
+            ViewData["ItemId"] = new SelectList(_context.Itens, "ItemId", "Nome", pedidoItem.ItemId);
+            ViewData["PedidoId"] = new SelectList(_context.Pedidos, "PedidoId", "PedidoId", pedidoItem.PedidoId);
             return View(pedidoItem);
         }
 
@@ -128,7 +128,7 @@ namespace MaisSabor2.Areas.Admin.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction("PedidoItens", "AdminPedidio", new { id = pedidoItem.PedidoId });
+                return RedirectToAction("PedidoItens", "AdminPedido", new { id = pedidoItem.PedidoId });
             }
             ViewData["ItemId"] = new SelectList(_context.Itens, "ItemId", "Cor", pedidoItem.ItemId);
             ViewData["PedidoId"] = new SelectList(_context.Pedidos, "PedidoId", "Cep", pedidoItem.PedidoId);
@@ -179,7 +179,7 @@ namespace MaisSabor2.Areas.Admin.Controllers
             }
 
             await _context.SaveChangesAsync();
-            return RedirectToAction("PedidoItens", "AdminPedidio", new { id = pedidoItem.PedidoId });
+            return RedirectToAction("PedidoItens", "AdminPedido", new { id = pedidoItem.PedidoId });
         }
 
         public void UpdatePedido(int pedidoId)

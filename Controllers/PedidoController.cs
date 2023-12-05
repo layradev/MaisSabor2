@@ -34,7 +34,7 @@ namespace MaisSabor2.Controllers
             //verifica se existem itens de pedido
             if (_carrinho.CarrinhoItens.Count == 0)
             {
-                ModelState.AddModelError("", "Seu carrinho esta vazio, que tal incluir um lanche...");
+                ModelState.AddModelError("", "Seu carrinho esta vazio, que tal incluir um item...");
             }
             //calcula o total de itens e o total do pedido
             foreach (var item in items)
